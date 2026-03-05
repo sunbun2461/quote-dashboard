@@ -3,7 +3,7 @@ import Sidebar from './sidebar/Sidebar.jsx'
 import Main from './main/Main.jsx'
 import Footer from './footer/Footer.jsx'
 function App() {
-//  https://wcpwzxwmnbkecdunosgk.supabase.co/1uotes
+//  https://wcpwzxwmnbkecdunosgk.supabase.co/quotes
 
   return (
     <div className='app-layout'>
